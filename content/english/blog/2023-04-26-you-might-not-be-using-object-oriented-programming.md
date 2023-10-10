@@ -1,15 +1,10 @@
 ---
-title: "How to build an Application with modern Technology"
-meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
-#image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
-draft: true
+title: You might not be using object-oriented programming
+date: 2023-04-26
+categories: ["Modern PHP in WP plugins"]
+tags: ["oop"]
+author: "Marcus Kober"
 ---
-
 **What lies behind this somewhat provocative headline? Over time, I have noticed something about certain WordPress plugins. What exactly, I will describe here.**
 
 First, I must admit, that I did not only notice that with plugins from other developers, but first and foremost with older plugins by myself. When I was developing my first plugins, I proclaimed with the utmost conviction at some point: “I now use object-oriented programming in my plugins!”. Unfortunately, this was not the truth. My code looked something like this:
