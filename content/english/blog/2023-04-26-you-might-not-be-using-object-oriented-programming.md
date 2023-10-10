@@ -4,6 +4,7 @@ date: 2023-04-26
 categories: ["Modern PHP in WP plugins"]
 tags: ["oop"]
 author: "Marcus Kober"
+url: "you-might-not-be-using-object-oriented-programming"
 ---
 **What lies behind this somewhat provocative headline? Over time, I have noticed something about certain WordPress plugins. What exactly, I will describe here.**
 

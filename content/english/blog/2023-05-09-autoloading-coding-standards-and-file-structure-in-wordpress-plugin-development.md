@@ -4,6 +4,7 @@ date: 2023-05-09
 categories: ["Modern PHP in WP plugins"]
 tags: ["autoloading", "composer", "psr"]
 author: "Marcus Kober"
+url: "autoloading-coding-standards-and-file-structure-in-wordpress-plugin-development"
 ---
 
 **In the last article, I explained the use of namespaces, which we need today to establish autoloading, which simultaneously defines our file and folder structure.**

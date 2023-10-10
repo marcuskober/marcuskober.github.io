@@ -4,6 +4,7 @@ date: 2023-05-03
 categories: ["Modern PHP in WP plugins"]
 tags: ["oop", "namespaces"]
 author: "Marcus Kober"
+url: "using-namespaces-in-wordpress-plugin-development"
 ---
 **In this article I'll point out, what's the reason for using namespaces in our WordPress plugins and what namespaces are. We will learn, that namespaces are important for the upcoming topics in this series.**
 

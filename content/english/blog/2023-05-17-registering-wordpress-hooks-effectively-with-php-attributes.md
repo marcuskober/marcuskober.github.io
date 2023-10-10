@@ -4,6 +4,7 @@ date: 2023-05-17
 categories: ["Modern PHP in WP plugins"]
 tags: ["hooks"]
 author: "Marcus Kober"
+url: "registering-wordpress-hooks-effectively-with-php-attributes"
 ---
 
 **In this article, I will discuss how and why WordPress hooks are used in plugins, and how we will use PHP attributes for registering hooks in classes effectively and clearly.**

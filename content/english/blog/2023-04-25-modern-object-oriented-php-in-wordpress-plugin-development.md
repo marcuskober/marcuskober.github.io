@@ -7,6 +7,7 @@ date: 2023-04-25
 categories: ["Modern PHP in WP plugins"]
 tags: ['plugin development']
 author: "Marcus Kober"
+url: "modern-object-oriented-php-in-wordpress-plugin-development"
 ---
 
 **In this article series, I will present methods for building WordPress plugins in a modern and object-oriented way. The focus will be on code quality, reusability, maintainability, and extensibility of plugins and plugin code.**
