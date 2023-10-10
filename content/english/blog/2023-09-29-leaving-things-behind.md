@@ -2,7 +2,7 @@
 title: Leaving things behind
 date: 2023-09-29
 categories: ["Meta"]
-tags:
+tags: ["personal"]
 author: "Marcus Kober"
 ---
 
