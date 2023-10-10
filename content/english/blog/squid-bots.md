@@ -5,7 +5,7 @@ draft: false
 categories: ["Midjourney"]
 tags: ["robot"]
 author: "Marcus Kober"
-#image: "/images/squidbots/marcus.kober_a_cyberpunk_biomechanical_robot_made_full_out_of_g_0be08530-7c19-48d5-8868-767aecb0be91.jpeg"
+image: "/images/squidbots/squid-main.jpg"
 ---
 
 In a secret lab, biomechanical squid bots are brought to life....
