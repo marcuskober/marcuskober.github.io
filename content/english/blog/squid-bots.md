@@ -1,5 +1,6 @@
 ---
 title: "Squid Bots"
+meta_title: "Squid Bots by Marcus Kober using Midjourney"
 date: 2023-10-10T20:39:22+02:00
 draft: false
 categories: ["Midjourney"]
