@@ -10,4 +10,4 @@ image: "/images/squidbots/squid-main.jpg"
 
 In a secret lab, biomechanical squid bots are brought to life....
 
-{{< gallery dir="images/squidbots" class="" height="400" width="400" webp="true" command="" option="Fit" zoomable="true" >}}
+{{< gallery dir="images/squidbots" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
