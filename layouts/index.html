@@ -33,7 +33,7 @@
     <div class="container">
       <div class="row gx-5">
         <div class="row text-center">
-          <h2>Latest Articles</h2>
+          <h2>{{ i18n "latest_articles" }}</h2>
           </div>
         </div>
       </div>
@@ -46,9 +46,11 @@
           <div class="lg:col-12">
             <div class="row">
               {{ range .Paginator.Pages }}
-                <div class="md:col-6 mb-14">
-                  {{ partial "components/blog-card" . }}
-                </div>
+                {{ if and (eq .Section "blog") (not .IsHome) }}
+                  <div class="md:col-6 mb-14">
+                    {{ partial "components/blog-card" . }}
+                  </div>
+                {{ end }}
               {{ end }}
             </div>
           </div>

@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Welcome to the digital home of Marcus Kober"
-  content: "I write about web development, mainly with PHP. And I will show you some images I've generated using Midjourney."
+  content: "I write here about web development, mainly focusing on PHP. From time to time, I'll showcase some images that I've generated with Midjourney, and occasionally include a personal article as well."
   image: false
   button:
     enable: true

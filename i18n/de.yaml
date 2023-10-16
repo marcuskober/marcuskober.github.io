@@ -2,37 +2,37 @@
   translation: Home
 
 - id: contact
-  translation: Contact
+  translation: Kontakt
 
 - id: read_more
-  translation: Read More
+  translation: Weiterlesen
 
 - id: send
   translation: Send
 
 - id: latest_articles
-  translation: Latest articles
+  translation: Aktuelle Artikel
 
 - id: related_posts
-  translation: Related Posts
+  translation: Ähnliche Artikel
 
 - id: categories
-  translation: Categories
+  translation: Kategorien
 
 - id: tags
   translation: Tags
 
 - id: toc
-  translation: Table of Contents
+  translation: Inhalt
 
 - id: share
-  translation: Share
+  translation: Teilen
 
 - id: search_input_placeholder
-  translation: Search Post ...
+  translation: Suchen ...
 
 - id: no_results_for
   translation: No results for
 
 - id: empty_search_results_placeholder
-  translation: Type something to search..
+  translation: Tippen um zu suchen..
