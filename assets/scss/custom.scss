@@ -41,7 +41,10 @@
 }
 
 .article-image {
-  aspect-ratio: 32/9;
-  object-fit: cover;
-  object-position: center;
+  transition: transform .4s ease;
 }
+
+.article-image-link:hover .article-image {
+  transform: scale(1.1);
+}
+
