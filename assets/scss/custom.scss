@@ -39,3 +39,9 @@
 .btn {
   text-transform: none;
 }
+
+.article-image {
+  aspect-ratio: 32/9;
+  object-fit: cover;
+  object-position: center;
+}
