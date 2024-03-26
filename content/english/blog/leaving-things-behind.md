@@ -4,6 +4,7 @@ date: 2023-09-29
 categories: ["Meta"]
 tags: ["personal"]
 author: "Marcus Kober"
+show_related: false
 ---
 
 ## New challenges

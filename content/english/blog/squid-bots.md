@@ -7,6 +7,7 @@ categories: ["Midjourney"]
 tags: ["robot"]
 author: "Marcus Kober"
 image: "/images/squidbots/squid-main.jpg"
+show_related: false
 ---
 
 In a secret lab, biomechanical squid bots are brought to life....

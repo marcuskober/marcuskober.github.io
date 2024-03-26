@@ -64,6 +64,7 @@
     </div>
 
     <!-- Related posts -->
+    {{ if or (not (isset .Params "show_related")) (.Params.show_related)}}
     {{ $related := (where site.RegularPages "Section" "in" site.Params.mainSections) | intersect (where site.RegularPages ".Title" "!=" .Title) | union (site.RegularPages.Related . ) }}
     {{ $related = $related | shuffle | first 3 }}
     {{ with $related }}
@@ -77,6 +78,7 @@
         {{ end }}
       </div>
     </div>
+    {{ end }}
     {{ end }}
   </div>
 </section>
