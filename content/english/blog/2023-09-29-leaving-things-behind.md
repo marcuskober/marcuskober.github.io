@@ -5,6 +5,7 @@ categories: ["Meta"]
 tags: ["personal"]
 author: "Marcus Kober"
 show_related: false
+url: "blog/leaving-things-behind"
 ---
 
 ## New challenges
@@ -27,6 +28,6 @@ I had been working with WordPress since 2005, and I loved it. I had a constant i
 
 Now I'm deep into designing a huge new project with Symfony and because of my quite emotional break with the former agency, my interest for WordPress begins to fade. And this is kind of sad for me, but maybe my passion for WordPress comes back some time. 
 
-I had very much fun writing the [article series on modern PHP in WordPress plugins](/categories/article-series-modern-php-in-plugins/), but for the time being, there will be no more articles on that topic. 
+I had very much fun writing the [article series on modern PHP in WordPress plugins](/categories/modern-php-in-wp-plugins/), but for the time being, there will be no more articles on that topic. 
 
 In the future there will be articles about legacy code and how to refactor and migrate it.

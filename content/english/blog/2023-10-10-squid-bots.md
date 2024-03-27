@@ -8,6 +8,7 @@ tags: ["robot"]
 author: "Marcus Kober"
 image: "/images/squidbots/squid-main.jpg"
 show_related: false
+url: "blog/squid-bots"
 ---
 
 In a secret lab, biomechanical squid bots are brought to life....

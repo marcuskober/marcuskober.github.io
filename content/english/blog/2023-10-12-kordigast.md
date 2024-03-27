@@ -7,6 +7,7 @@ categories: ["Personal"]
 tags: ["hike"]
 author: "Marcus Kober"
 show_related: false
+url: "blog/kordigast"
 ---
 
 I took a week off to decompress, visiting my parents along with my two kids, and deal with some stress.
