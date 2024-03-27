@@ -14,7 +14,7 @@
           {{ end }}
         </div>
       </div>
-      <div class="lg:col-4">
+      <div class="mt-12 lg:mt-0 lg:col-4">
         <!-- widget -->
         {{ $widget:= site.Params.widgets.sidebar }}
         {{ partialCached "widgets/widget-wrapper" ( dict "Widgets" $widget "Scope" . ) }}
