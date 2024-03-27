@@ -7,6 +7,8 @@ author: "Marcus Kober"
 url: "registering-wordpress-hooks-effectively-with-php-attributes"
 ---
 
+{{< toc >}}
+
 **In this article, I will discuss how and why WordPress hooks are used in plugins, and how we will use PHP attributes for registering hooks in classes effectively and clearly.**
 
 ## What are hooks and how do they work?

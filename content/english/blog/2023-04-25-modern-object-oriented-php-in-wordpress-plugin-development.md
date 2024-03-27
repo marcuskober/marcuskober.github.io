@@ -10,6 +10,8 @@ author: "Marcus Kober"
 url: "modern-object-oriented-php-in-wordpress-plugin-development"
 ---
 
+{{< toc >}}
+
 **In this article series, I will present methods for building WordPress plugins in a modern and object-oriented way. The focus will be on code quality, reusability, maintainability, and extensibility of plugins and plugin code.**
 
 In this first article, I would like to briefly introduce myself and explain why I'm writing this series. I also want to highlight when these approaches and methods are unsuitable and provide additional considerations when considering modern PHP and WordPress plugins.

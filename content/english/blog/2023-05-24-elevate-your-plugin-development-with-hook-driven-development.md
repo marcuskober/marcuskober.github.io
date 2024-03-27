@@ -7,6 +7,8 @@ author: "Marcus Kober"
 url: "elevate-your-plugin-development-with-hook-driven-development"
 ---
 
+{{< toc >}}
+
 **After the previous article in this series was very technical, today we'll take a breather and indulge in a slightly more theoretical piece. Our topic is Hook-Driven-Development and why you too should implement it in your plugins.**
 
 In WordPress plugin development, hooks are a fundamental and indispensable tool. Hooks ensure that a plugin is extendable, scalable, and remains cleanly structured. Hook-Driven-Development is an approach in plugin development that not only involves using the existing hooks of WordPress and other plugins but also incorporating your own hooks and using them within the plugin itself.

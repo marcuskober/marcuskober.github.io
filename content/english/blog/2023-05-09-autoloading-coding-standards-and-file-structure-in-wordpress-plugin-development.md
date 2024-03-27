@@ -7,6 +7,8 @@ author: "Marcus Kober"
 url: "autoloading-coding-standards-and-file-structure-in-wordpress-plugin-development"
 ---
 
+{{< toc >}}
+
 **In the last article, I explained the use of namespaces, which we need today to establish autoloading, which simultaneously defines our file and folder structure.**
 
 ## Declare classes in their own PHP files

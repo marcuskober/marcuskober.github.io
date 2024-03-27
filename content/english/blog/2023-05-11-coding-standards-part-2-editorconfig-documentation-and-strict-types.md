@@ -7,6 +7,8 @@ author: "Marcus Kober"
 url: "coding-standards-part-2-editorconfig-documentation-and-strict-types"
 ---
 
+{{< toc >}}
+
 **In the previous article, we already learned a lot about coding standards, and today I like to discuss three more points: the file _.editorconfig_, the documentation of your code, and the declaration of strict types.**
 
 ## The file .editorconfig

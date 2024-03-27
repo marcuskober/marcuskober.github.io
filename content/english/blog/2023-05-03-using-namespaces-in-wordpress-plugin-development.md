@@ -6,6 +6,9 @@ tags: ["oop", "namespaces"]
 author: "Marcus Kober"
 url: "using-namespaces-in-wordpress-plugin-development"
 ---
+
+{{< toc >}}
+
 **In this article I'll point out, what's the reason for using namespaces in our WordPress plugins and what namespaces are. We will learn, that namespaces are important for the upcoming topics in this series.**
 
 ## The problem with naming constants, functions, and classes in WordPress plugins
