@@ -1,6 +1,6 @@
 ---
 title: "Kordigast"
-excerpt: I took a week off to decompress, visiting my parents along with my two kids, and deal with some stress.
+summary: I took a week off to decompress, visiting my parents along with my two kids, and deal with some stress.
 date: 2023-10-12T17:29:00+02:00
 draft: false
 image: "/images/kordigast/kordigast-cover.jpeg"

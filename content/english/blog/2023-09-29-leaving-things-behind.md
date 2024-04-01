@@ -1,6 +1,6 @@
 ---
 title: Leaving things behind
-excerpt: After working for one single agency for almost 13 years, I needed a change and decided to make myself available for new opportunities.
+summary: After working for one single agency for almost 13 years, I needed a change and decided to make myself available for new opportunities.
 date: 2023-09-29
 categories: ["Meta"]
 tags: ["personal"]

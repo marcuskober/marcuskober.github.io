@@ -1,6 +1,6 @@
 ---
 title: 'Coding standards part 2: .editorconfig, documentation and strict types'
-excerpt: 'In the previous article, we already learned a lot about coding standards, and today I like to discuss three more points: the file _.editorconfig_, the documentation of your code, and the declaration of strict types.'
+summary: 'In the previous article, we already learned a lot about coding standards, and today I like to discuss three more points: the file _.editorconfig_, the documentation of your code, and the declaration of strict types.'
 date: 2023-05-11
 categories: ["Modern PHP in WP plugins"]
 tags: ["coding standards", "documentation", "psr"]

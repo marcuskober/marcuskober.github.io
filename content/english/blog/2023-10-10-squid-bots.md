@@ -1,6 +1,6 @@
 ---
 title: "Squid Bots"
-excerpt: In a secret lab, biomechanical squid bots are brought to life....
+summary: In a secret lab, biomechanical squid bots are brought to life....
 meta_title: "Squid Bots by Marcus Kober using Midjourney"
 date: 2023-10-10T20:39:22+02:00
 draft: false
