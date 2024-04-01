@@ -1,5 +1,6 @@
 ---
 title: 'How to register WordPress hooks with PHP attributes: A step-by-step guide'
+excerpt: 'In this article, I will discuss how and why WordPress hooks are used in plugins, and how we will use PHP attributes for registering hooks in classes effectively and clearly.'
 date: 2023-05-17
 categories: ["Modern PHP in WP plugins"]
 tags: ["hooks"]

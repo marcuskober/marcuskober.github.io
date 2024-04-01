@@ -1,5 +1,6 @@
 ---
 title: Elevate Your Plugin Development with Hook-Driven-Development
+excerpt: After the previous article in this series was very technical, today we'll take a breather and indulge in a slightly more theoretical piece. Our topic is Hook-Driven-Development and why you too should implement it in your plugins.
 date: 2023-05-24
 categories: ["Modern PHP in WP plugins"]
 tags: ["event-driven"]

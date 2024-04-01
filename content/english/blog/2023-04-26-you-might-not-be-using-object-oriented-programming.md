@@ -1,5 +1,6 @@
 ---
 title: You might not be using object-oriented programming
+excerpt: What lies behind this somewhat provocative headline? Over time, I have noticed something about certain WordPress plugins. What exactly, I will describe here.
 date: 2023-04-26
 categories: ["Modern PHP in WP plugins"]
 tags: ["oop"]
